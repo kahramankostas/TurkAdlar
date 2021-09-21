@@ -4,3 +4,5 @@
 
 
 ## https://turkadlar.com/?s=tum-adlar  adresindeki yaklaşık 15000'den fazla ismi, cinsiyet ve kullanım sıklığı bilgileriyle birlikte CSV formatında kaydeder. 
+
+## ayrıca isimler cinsiyete göre iki farklı dosyaya ayrılmıştır.
